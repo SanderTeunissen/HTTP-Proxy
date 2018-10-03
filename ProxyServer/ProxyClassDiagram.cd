@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProxyServer.App" Collapsed="true">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyServer.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAACAEAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Loadbalancer.Base.NotificationBase" Collapsed="true">
+    <Position X="5.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAgAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\NotificationBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Loadbalancer.Base.NotificationBase&lt;T&gt;" Collapsed="true">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Base\NotificationBaseClassBased.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyServer.Models.CacheItem" Collapsed="true">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAACAAAAAAAAAAAAAAAAABAABACAAgA=</HashCode>
+      <FileName>Models\CacheItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyServer.Models.GzipParser" Collapsed="true">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\GzipParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyServer.Models.Proxy" Collapsed="true">
+    <Position X="13.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKIAABABDhABBBACAAQIICECAqAAgAgIQAAAAABAAQ=</HashCode>
+      <FileName>Models\Proxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyServer.Models.HTTP.HttpHeader" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAABQEAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\HTTP\HttpHeader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyServer.Models.HTTP.HttpMessage" Collapsed="true">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JABAAACQIEAABAAECEABAAAACAAAAAACAAAAAIAACAA=</HashCode>
+      <FileName>Models\HTTP\HttpMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyServer.Models.HTTP.HttpRequest" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAggAAAAAAAAAAAAAAAAAAAAAAAAAAAABAABAAAAAA=</HashCode>
+      <FileName>Models\HTTP\HttpRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyServer.Models.HTTP.HttpResponse" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAQAAAACgAAgABAAAAAAAAAAAAAAAQAAAAAIAAA=</HashCode>
+      <FileName>Models\HTTP\HttpResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyServer.Properties.Resources" Collapsed="true">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyServer.Properties.Settings" Collapsed="true">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyServer.ViewModels.ProxyVM" Collapsed="true">
+    <Position X="5.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACqABAAABABEBJAACAAAAAAAAAgAAgQAAQAAAAAAACA=</HashCode>
+      <FileName>ViewModels\ProxyVM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ProxyServer.Models.HTTP.HttpContentType" Collapsed="true">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAQAAAAAAAAAAAAAAABEAAAAAAIAAAACAAAACA=</HashCode>
+      <FileName>Models\HTTP\HttpContentType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

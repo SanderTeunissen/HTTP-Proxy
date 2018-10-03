@@ -1,0 +1,45 @@
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe.config
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\bin\Debug\ProxyServer.pdb
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\MainWindow.g.cs
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\App.g.cs
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer_MarkupCompile.cache
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer_MarkupCompile.lref
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\MainWindow.baml
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer.g.resources
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer.Properties.Resources.resources
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.GenerateResource.cache
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.CoreCompileInputs.cache
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer.exe
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer.pdb
+C:\Users\Sander\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csprojAssemblyReference.cache
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe.config
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\bin\Debug\ProxyServer.pdb
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csprojAssemblyReference.cache
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\MainWindow.g.cs
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\App.g.cs
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\ProxyServer_MarkupCompile.cache
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\ProxyServer_MarkupCompile.lref
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\MainWindow.baml
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\ProxyServer.g.resources
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\ProxyServer.Properties.Resources.resources
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.GenerateResource.cache
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.CoreCompileInputs.cache
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\ProxyServer.exe
+C:\Users\Sander\Desktop\Nieuwe map\ProxyServer\ProxyServer\obj\Debug\ProxyServer.pdb
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe.config
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\bin\Debug\ProxyServer.pdb
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csprojAssemblyReference.cache
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\MainWindow.g.cs
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\App.g.cs
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\ProxyServer_MarkupCompile.cache
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\ProxyServer_MarkupCompile.lref
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\MainWindow.baml
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\ProxyServer.g.resources
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\ProxyServer.Properties.Resources.resources
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.GenerateResource.cache
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.CoreCompileInputs.cache
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\ProxyServer.exe
+N:\School\J3S2 - NotS\WIN\Proxy 26 juni\ProxyServer\ProxyServer\obj\Debug\ProxyServer.pdb
